@@ -1,10 +1,5 @@
 ###############################################################################
 # System Configuration
-# Malware Development / Analysis starter 
-# Cleans up windows, installs tooling
-# Disables Defender / FW / security features
-# So.. production ready!
-# TODO: add section for calling from /scripts like boxjump for WSL 
 ###############################################################################
 
 # Get admin creds and set execution policy
